@@ -8,7 +8,6 @@ public class academia {
             String Nome;
             int CPF;
             int Fone;
-            int Placa;
             String Diaria;
             String Semanal;
             String Mensal;
